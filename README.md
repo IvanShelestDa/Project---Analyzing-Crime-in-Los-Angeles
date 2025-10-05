@@ -17,7 +17,7 @@ In this project, you will act as a **data detective** helping the **Los Angeles 
 
 ## Objectives
 
-Your tasks in this project include:
+Tasks in this project include:
 
 1. **Identify the hour with the highest frequency of crimes.**
 
@@ -115,7 +115,7 @@ Name: DR_NO, dtype: int64
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 * **Python 3.12**
 * **pandas** — data manipulation
@@ -125,7 +125,7 @@ Name: DR_NO, dtype: int64
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * Most crimes occur around **12:00 PM**, during peak daytime activity.
 * The **Central** area records the highest frequency of night-time crimes.
@@ -133,10 +133,10 @@ Name: DR_NO, dtype: int64
 
 ---
 
-## 📦 Repository Structure
+## Repository Structure
 
 ```
-📁 Analyzing-Crime-in-Los-Angeles/
+Analyzing-Crime-in-Los-Angeles/
 │
 ├── main.py          # Main Python analysis script
 ├── crimes.csv       # Dataset
@@ -146,7 +146,7 @@ Name: DR_NO, dtype: int64
 
 ---
 
-## 📚 Source
+## Source
 
 Dataset and problem description provided by **DataCamp** as part of the project:
 🔗 [Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876)
