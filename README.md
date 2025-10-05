@@ -2,6 +2,7 @@
 # Project: Analyzing Crime in Los Angeles
 
 **Author:** *Completed independently by Ivan Shelest*
+
 **Based on DataCamp project:** [Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876)
 
 ---
